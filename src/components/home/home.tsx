@@ -1,5 +1,5 @@
 import { animated, useSpring } from '@react-spring/web';
-import logoDojo from './../../assets/Logo3.png'; // Importe o logoDojo
+import logoDojo from './../../assets/CjS.png'; // Importe o logoDojo
 
 
 

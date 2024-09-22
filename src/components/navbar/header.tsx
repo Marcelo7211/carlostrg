@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { FaBars, FaTimes } from 'react-icons/fa' // Substituir os ícones da biblioteca heroicons pelos ícones equivalentes da biblioteca react-icons
-import logoDojo from './../../assets/Logo3.png'
+import logoDojo from './../../assets/CjS.png'
 
 const navigation = [
   { name: 'Home', href: '/' },
