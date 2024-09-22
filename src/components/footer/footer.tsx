@@ -32,7 +32,7 @@ export default function Footer() {
             </div>
             <div className="mt-6 flex flex-col items-center">
                 <a href="#" className="text-primary text-lg font-semibold">Código do serviço</a>
-                <p className="mt-2 text-sm text-muted-foreground">© 2016–2024 Dojo Paulista, Inc.</p>
+                <p className="mt-2 text-sm text-muted-foreground">© 2016–2024 TRG Carlos, Inc.</p>
             </div>
         </footer>
     )
