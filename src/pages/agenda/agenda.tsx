@@ -22,7 +22,7 @@ export default function Agenda(){
                 </div>
                 <div className="text-center mx-auto max-w-2xl py-10 sm:py-10 lg:py-10">
                     <h1 className="mt-6 text-3xl leading-8 text-gray-900"> {/* Alterado para texto mais claro */}
-                        Agende o seu horario aqui
+                       
                     </h1>
                     <div className="App">
                         <InlineWidget  
