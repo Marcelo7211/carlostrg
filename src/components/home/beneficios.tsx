@@ -6,7 +6,7 @@ import emocional2 from '../../assets/Emocao2.png';
 export default function Beneficios() {
     return (
         <section className="bg-transparent text-foreground py-2">
-            <h2 className="text-4xl font-bold text-center mb-8">Beneficios em praticar karate</h2>
+            <h2 className="text-4xl font-bold text-center mb-8">Alguns beneficios da Terapia de Reprocessamento Generativo</h2>
             <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div className="bg-card p-6 rounded-lg shadow-lg text-center" style={{ backgroundImage: `url(${liberdade})`, backgroundSize: 'cover' }}>
                     <h3 className="text-white text-xl font-semibold mb-2" style={{ textShadow: '2px 2px 4px black' }}>Libertação de traumas e bloqueios emocionais</h3>
