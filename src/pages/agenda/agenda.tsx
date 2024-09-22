@@ -26,7 +26,7 @@ export default function Agenda(){
                     </h1>
                     <div className="App">
                         <InlineWidget  
-                            url="https://calendly.com/marcelo-barboza-generation/entrevista-tecnica?back=1&month=2024-09"
+                            url="https://calendly.com/carlosjsterapeuta/30min"
                             iframeTitle="Agende um horário"
                         />
                     </div>
