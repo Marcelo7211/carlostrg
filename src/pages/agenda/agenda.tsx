@@ -1,6 +1,5 @@
 import { InlineWidget } from "react-calendly";
 import logoDojo from './../../assets/CjS.png'; // Importe o logoDojo
-import ReactWhatsapp from 'react-whatsapp';
 
 export default function Agenda(){
     return(
