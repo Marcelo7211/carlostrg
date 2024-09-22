@@ -6,6 +6,7 @@ import logoDojo from './../../assets/CjS.png'
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Sobre mim', href: '/sobre' },
+  { name: 'Agende uma Sessão', href:'/agenda'}, 
   { name: 'Fale conosco', href: '/#' },
   { name: 'Nossos serviços ', href: '/#' },
 ]

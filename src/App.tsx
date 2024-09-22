@@ -7,6 +7,7 @@ import Header from './components/navbar/header';
 import Footer from './components/footer/footer';
 import HomePage from './pages/home/homePage';
 import Sobre from './pages/about/sobre'
+import Agenda from './pages/agenda/agenda';
 
 
 
@@ -31,6 +32,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/sobre" element={<Sobre />} />
+          <Route path = "/agenda" element = {<Agenda />} />
         </Routes>
       </BrowserRouter>
      <animated.div style={fadePropsHeader} ref={ref}>

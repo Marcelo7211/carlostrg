@@ -41,7 +41,7 @@ function Home() {
               Transforme sua mente, reescreva sua história.
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-900"> {/* Alterado para texto mais claro */}
-            Você já se perguntou como seria se pudesse liberar o peso de antigas lembranças e encontrar um novo caminho para sua mente? A Terapia de Reprocessamento Generativo vai além das palavras, permitindo que você ressignifique experiências e construa novas percepções. Cada avanço é uma oportunidade de redescobrir sua própria força e alcançar um estado de equilíbrio e clareza. O processo é único para cada pessoa, sempre respeitando o seu tempo e a sua história.
+            Você já se perguntou como seria se pudesse liberar o peso de antigas lembranças e encontrar um novo caminho para sua mente? A Terapia de Reprocessamento Generativo vai além das palavras, permitindo que você reprocesse experiências e construa novas percepções. Cada avanço é uma oportunidade de redescobrir sua própria força e alcançar um estado de equilíbrio e clareza. O processo é único para cada pessoa, sempre respeitando o seu tempo e a sua história.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
