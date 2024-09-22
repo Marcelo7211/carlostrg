@@ -38,7 +38,7 @@ export default function Agenda(){
                             Saiba mais
                         </a>
                         <a href="https://dojopaulista.actuar.com/fale-conoscov2" className="text-sm font-semibold leading-6 text-gray-500"> {/* Alterado para texto mais claro */}
-                            Sobre nós <span aria-hidden="true">→</span>
+                            Sobre mim <span aria-hidden="true">→</span>
                         </a>
                     </div>
                 </div>
