@@ -14,7 +14,7 @@ export default function SessaoEfeito_1(){
               A TRG pode ajudar a: Reduzir a gravidade dos sintomas, Fortalecer a resiliência emocional, Reestruturar o psiquismo, Gerar novas conexões neurais, Oferecer uma postura mais assertiva.
 
               </p>
-              <a href='https://dojopaulista.actuar.com/' className="bg-red-900 hover:bg-red-600 text-secondary-foreground hover:bg-secondary/80 py-2 px-4 rounded">Agende a sua consulta agora!</a>
+              <a href='/agenda' className="bg-red-900 hover:bg-red-600 text-secondary-foreground hover:bg-secondary/80 py-2 px-4 rounded">Agende a sua consulta agora!</a>
             </div>
             <div className="flex-1 lg:m-0 mr-2 mb-2">
               <img src={Carlos} alt="Placeholder Image" className="w-full h-full object-cover" />
